@@ -1,0 +1,539 @@
+{
+    "root": {
+        "name": {
+            "id": "L33382",
+            "text": "LCD - Lumbar Spinal Fusion for Instability and Degenerative Disc Conditions"
+        },
+        "header": "Coverage Guidance",
+        "History/Background and/or General Information": {
+            "para": [
+                {
+                    "id": "L_4ZTcQ7vA",
+                    "text": "Low back pain is a common disorder affecting 80% of people at some point in their lives. Causes stem from a wide variety of conditions, although in some cases no specific etiology is identified. Age-related intervertebral disc degeneration, typically resulting in degeneration of the discs themselves, facet joint arthrosis and segmental instability are causative factors. Initial management can include rest, exercise program, avoidance of activities that aggravate pain, application of heat/cold modalities, pharmacotherapy, local injections, lumbar bracing, chiropractic manipulation, and physical therapy. When conservative therapy (non-surgical medical management) is unsuccessful after at least 3 to 12 months, depending on the diagnosis, lumbar spinal fusion may be considered for certain\\n\\nCreated on 10/25/2021. Page 2 of 11\\n\\nconditions."
+                },
+                {
+                    "id": "jc2rgcGrt6",
+                    "text": "The goal of lumbar spinal fusion, also referred to as lumbar arthrodesis, is to permanently immobilize the spinal column vertebrae surrounding the disc(s) that are causing the discogenic low back pain. Surgical techniques to achieve lumbar spinal fusion are numerous, and include different surgical approaches (anterior, posterior, lateral) to the spine, different areas of fusion (intervertebral body (interbody), transverse process (posterolateral), different fusion materials (bone graft and/or metal instrumentation), and a variety of ancillary techniques to augment fusion. The scope of this LCD is the indications and medical need of Lumbar Spinal Fusion for instability and degenerative disc conditions."
+                },
+                {
+                    "id": "uzzf085Ysd",
+                    "text": "Arthrodesis is usually performed for conditions that involve only one vertebral segment, however, it is necessary to fuse two segments in order to stop movement, which is referred to as a single level fusion. Lumbar fusion of more than a single level is not typically recommended except in some situations such as trauma, deformity, or for neoplasm. For the majority of the population age 65 or older, pure degenerative disc disease (DDD) without co- morbidities/co-diagnoses is rare and multilevel lumbar fusion in this population is not well studied."
+                }
+            ]
+        },
+        "Covered Indications:": {
+            "para": [
+                {
+                    "id": "D0JZISRXBu",
+                    "text": "Spinal fusion should only be considered as a last step in the treatment of chronic back pain and is not indicated for most persons suffering from back pain. Lumbar spinal fusion surgery may be considered medically necessary and covered for the following indications:",
+                    "ul": {
+                        "li": [
+                            {
+                                "condition": "",
+                                "para": {
+                                    "id": "bPI_K7-qD6",
+                                    "text": "1.Lumbar spinal instability for ANY of the following indications when confirmed by appropriate diagnostic testing (e.g., radiographic imaging, biopsy, bone aspirate, bone scan and gallium scan):"
+                                },
+                                "ul": {
+                                    "li": [
+                                        {
+                                            "condition": "",
+                                            "para": {
+                                                "id": "W_9yRsgyPE",
+                                                "text": "Acute spinal fracture"
+                                            }
+                                        },
+                                        {
+                                            "condition": "",
+                                            "para": {
+                                                "id": "CP-hVy2dG3",
+                                                "text": "Progressive or significant acute neurological impairment (e.g., increased weakness or bladder instability)"
+                                            }
+                                        },
+                                        {
+                                            "condition": "",
+                                            "para": {
+                                                "id": "j0F9Nan84I",
+                                                "text": "Neural compression after spinal fracture"
+                                            }
+                                        },
+                                        {
+                                            "condition": "",
+                                            "para": {
+                                                "id": "1kEzQ48sx4",
+                                                "text": "Epidural compression or vertebral destruction from tumor or abscess"
+                                            }
+                                        },
+                                        {
+                                            "condition": "",
+                                            "para": {
+                                                "id": "GXrGMCJX1s",
+                                                "text": "Spinal tuberculosis"
+                                            }
+                                        },
+                                        {
+                                            "condition": "",
+                                            "para": {
+                                                "id": "sUfsj7wGyi",
+                                                "text": "Spinal debridement for infection (e.g., osteomyelitis)"
+                                            }
+                                        },
+                                        {
+                                            "condition": "",
+                                            "para": {
+                                                "id": "kVN0W1nMLP",
+                                                "text": "Spinal deformity (examples include but not limited to idiopathic scoliosis over 40 degrees, progressive degenerative scoliosis [including spinal levels from the cranial to caudal ends of the deformity and the adjacent normal segment], and sagittal plane deformity + sagittal balance over 10cm)"
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "condition": "",
+                                "para": {
+                                    "id": "kvyBIe4V8R",
+                                    "text": "2.Spinal stenosis for a single level (for example, L4-L5) with associated spondylolisthesis (see classifications below in section 3) or other documented evidence of instability (for example, facet joint instability [iatrogenic] related to decompression), AND symptoms of spinal claudication and radicular pain. The pain must represent a significant functional impairment despite a history of 3 months of conservative therapy (non-surgical medical management) as clinically appropriate addressing the following:"
+                                },
+                                "ul": {
+                                    "li": [
+                                        {
+                                            "condition": "",
+                                            "para": {
+                                                "id": "hg5W4qyttp",
+                                                "text": "Activity lifestyle modification"
+                                            }
+                                        },
+                                        {
+                                            "condition": "",
+                                            "para": {
+                                                "id": "wmOkcHjDvc",
+                                                "text": "Daily exercise"
+                                            }
+                                        },
+                                        {
+                                            "condition": "",
+                                            "para": {
+                                                "id": "RLs0NFrHSg",
+                                                "text": "Supervised physical therapy (PT) (activities of daily living [ADLs] diminished despite completing a plan of care)"
+                                            }
+                                        },
+                                        {
+                                            "condition": "",
+                                            "para": {
+                                                "id": "81iwyRPsKB",
+                                                "text": "Anti-inflammatory medications, oral or injection therapy as appropriate, and analgesics"
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "condition": "",
+                                "para": {
+                                    "id": "ycza6QTf51",
+                                    "text": "3.Spondylolisthesis manifested by back pain WITH OR WITHOUT spinal claudication, radicular pain, motor deficit when ANY of the following criteria are met:"
+                                },
+                                "ul": {
+                                    "li": [
+                                        {
+                                            "condition": "",
+                                            "para": {
+                                                "id": "PArEt2VPrS",
+                                                "text": "Confirmed progressive deformity usually Grade II or higher"
+                                            }
+                                        },
+                                        {
+                                            "condition": "",
+                                            "para": {
+                                                "id": "p3vxg5_xnM",
+                                                "text": "Multilevel spondylolysis"
+                                            }
+                                        },
+                                        {
+                                            "condition": "",
+                                            "para": {
+                                                "id": "xf7ZEz-UZH",
+                                                "text": "Symptomatic low-grade spondylolisthesis associated with back pain and significant functional impairment despite a history of 3 months of conservative therapy (non-surgical medical management) as clinically appropriate addressing the following: activity lifestyle modification; daily exercise; supervised PT (ADLs diminished despite completing a plan of care); and anti-inflammatory medications, oral or injection therapy as appropriate, and analgesics"
+                                            }
+                                        },
+                                        {
+                                            "condition": "",
+                                            "para": {
+                                                "id": "641q_vYLgo",
+                                                "text": "Classification of slippage in spondylolisthesis is defined as follows:"
+                                            },
+                                            "ul": {
+                                                "li": [
+                                                    {
+                                                        "condition": "",
+                                                        "para": {
+                                                            "id": "ulTgNYuMTb",
+                                                            "text": "Grade I =1% to 25%"
+                                                        }
+                                                    },
+                                                    {
+                                                        "condition": "",
+                                                        "para": {
+                                                            "id": "raKWWb1gIy",
+                                                            "text": "Grade II =26% to 50%"
+                                                        }
+                                                    },
+                                                    {
+                                                        "condition": "",
+                                                        "para": {
+                                                            "id": "cU2e3G6R-W",
+                                                            "text": " Grade III =51% to 75%"
+                                                        }
+                                                    },
+                                                    {
+                                                        "condition": "",
+                                                        "para": {
+                                                            "id": "WEEPaYWGA4",
+                                                            "text": "Grade IV = 76% to 100%"
+                                                        }
+                                                    },
+                                                    {
+                                                        "condition": "",
+                                                        "para": {
+                                                            "id": "o3LMvVBetG",
+                                                            "text": "Grade V = spondyloptosis and occurs when the L5 vertebra completely slides over the top of the sacrum"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "condition": "",
+                                "para": {
+                                    "id": "FYLYhDvzNh",
+                                    "text": "4.Degenerative disc disease (DDD) in the absence of instability when all of the following criteria have been met as clinically appropriate for the patient\u2019s current episode of care:"
+                                },
+                                "ul": {
+                                    "li": [
+                                        {
+                                            "condition": "",
+                                            "para": {
+                                                "id": "ek3U0MZozC",
+                                                "text": "Single level DDD demonstrated on imaging studies (e.g., CT scan, MRI, or discography) as the likely cause of pain. The case specific indications for two level or the rare three or more level planned fusion procedure must be directly addressed in the pre procedure record with clinical correlation to diagnostic testing results (such as disk-space narrowing, end plate changes, annular changes, etc.)."
+                                            }
+                                        },
+                                        {
+                                            "condition": "",
+                                            "para": {
+                                                "id": "HV67ITUVML",
+                                                "text": "Pain and significant functional impairment despite a history of at least 6 months of conservative therapy (non- surgical medical management) as clinically appropriate addressing the following:"
+                                            },
+                                            "ul": {
+                                                "li": [
+                                                    {
+                                                        "condition": "",
+                                                        "para": {
+                                                            "id": "0vv4-Gcoge",
+                                                            "text": "Anti-inflammatory medications, oral or injection therapy as appropriate, and analgesics"
+                                                        }
+                                                    },
+                                                    {
+                                                        "condition": "",
+                                                        "para": {
+                                                            "id": "vqlE2_LR1U",
+                                                            "text": "Daily exercise"
+                                                        }
+                                                    },
+                                                    {
+                                                        "condition": "",
+                                                        "para": {
+                                                            "id": "dE32qjRRnI",
+                                                            "text": "Activity lifestyle modification"
+                                                        }
+                                                    },
+                                                    {
+                                                        "condition": "",
+                                                        "para": {
+                                                            "id": "ceXMQxfpc0",
+                                                            "text": "Weight reduction as appropriate"
+                                                        }
+                                                    },
+                                                    {
+                                                        "condition": "",
+                                                        "para": {
+                                                            "id": "IBrYF39Gwk",
+                                                            "text": "Supervised PT [ADLs diminished despite completing a plan of care]"
+                                                        }
+                                                    },
+                                                    {
+                                                        "condition": "",
+                                                        "para": {
+                                                            "id": "fJ8AGpWyAp",
+                                                            "text": "Unsuccessful improvement after completion of intense multidisciplinary rehabilitation (IMR). IMR is defined as onsite program that includes supervised PT, cognitive behavior component, and other coordinated interventions by health care professionals."
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "SByGqj3gEC",
+                    "text": "Failure of non-surgical medical management can be historical and does not have to be under the direction of the operating surgeon.",
+                    "ul": {
+                        "li": [
+                            {
+                                "condition": "",
+                                "para": {
+                                    "id": "58OokIynM6",
+                                    "text": "5.Lumbar fusion following prior spinal surgery for the following:"
+                                },
+                                "ul": {
+                                    "li": [
+                                        {
+                                            "condition": "",
+                                            "para": {
+                                                "id": "7qJMpC5bkn",
+                                                "text": "Recurrent disc herniation despite clinically appropriate post operative nonsurgical medical management (post- operative case specific conservative therapy is prescribed as clinically appropriate in addition to documentation of pain and functional impairment)."
+                                            }
+                                        },
+                                        {
+                                            "condition": "",
+                                            "para": {
+                                                "id": "NQuvcUdLAy",
+                                                "text": "Adjacent segment degeneration or disc herniation despite clinically appropriate post-operative nonsurgical medical management (post-operative case specific conservative therapy is prescribed as clinically appropriate in addition to documentation of pain and functional impairment)."
+                                            }
+                                        },
+                                        {
+                                            "condition": "",
+                                            "para": {
+                                                "id": "d7hJi21Bmm",
+                                                "text": "Associated spondylolisthesis (for example anterolisthesis) after prior spinal surgery with ALL the following as clinically appropriate:"
+                                            },
+                                            "ul": {
+                                                "li": [
+                                                    {
+                                                        "condition": "",
+                                                        "para": {
+                                                            "id": "VrIqXLP8eh",
+                                                            "text": "Recurrent symptoms consistent with neurological compromise"
+                                                        }
+                                                    },
+                                                    {
+                                                        "condition": "",
+                                                        "para": {
+                                                            "id": "6hP3dyyfA5",
+                                                            "text": "Significant functional impairment"
+                                                        }
+                                                    },
+                                                    {
+                                                        "condition": "",
+                                                        "para": {
+                                                            "id": "nOavOh62LG",
+                                                            "text": "Neural compression is documented by recent post-operative imaging"
+                                                        }
+                                                    },
+                                                    {
+                                                        "condition": "",
+                                                        "para": {
+                                                            "id": "WTqbir9SjH",
+                                                            "text": "Unsuccessful improvement despite 3 months of clinically appropriate post-operative nonsurgical medical management (post-operative case specific conservative therapy is prescribed as clinically appropriate in addition to documentation of pain and functional impairment)"
+                                                        }
+                                                    },
+                                                    {
+                                                        "condition": "",
+                                                        "para": {
+                                                            "id": "8hOGVyXn6H",
+                                                            "text": "Instability is documented by appropriate imaging"
+                                                        }
+                                                    },
+                                                    {
+                                                        "condition": "",
+                                                        "para": {
+                                                            "id": "_d5_lRE-ps",
+                                                            "text": "Patient had some relief of pain symptoms following the prior spinal surgery"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "condition": "",
+                                "para": {
+                                    "id": "zLQihev7ld",
+                                    "text": "6.Treatment of pseudoarthrosis (i.e., nonunion of prior fusion) at the same level after 12 months from prior surgery and ALL of the following are met (unless imaging demonstrates failed spinal instrumentation [for example, fractured rod or loosened screw]):"
+                                },
+                                "ul": {
+                                    "li": [
+                                        {
+                                            "condition": "",
+                                            "para": {
+                                                "id": "tHcXBjPUwO",
+                                                "text": "Imaging studies confirm evidence of pseudoarthrosis (e.g., radiographs, CT)"
+                                            }
+                                        },
+                                        {
+                                            "condition": "",
+                                            "para": {
+                                                "id": "NoZl1AL6V2",
+                                                "text": "Unsuccessful improvement despite 3 months of clinically appropriate post-operative nonsurgical medical management (post-operative case specific conservative therapy is prescribed as clinically appropriate in addition to documentation of pain and functional impairment)"
+                                            }
+                                        },
+                                        {
+                                            "condition": "",
+                                            "para": {
+                                                "id": "WZkA2iUGyI",
+                                                "text": "Patient had some relief of pain symptoms following the prior spinal surgery"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "Limitations:": {
+            "para": [
+                {
+                    "id": "yEe30vinvr",
+                    "text": "Lumbar spinal fusion for the following conditions is not considered medically necessary and is noncovered:",
+                    "ul": {
+                        "li": [
+                            {
+                                "condition": "",
+                                "para": {
+                                    "id": "raQRAwlg_t",
+                                    "text": "When performed with initial primary laminectomy/discectomy for nerve root decompression or spinal stenosis, without documented spondylolisthesis or documentation of instability (e.g., documented intraoperative iatrogenic instability)."
+                                }
+                            },
+                            {
+                                "condition": "",
+                                "para": {
+                                    "id": "NL8kK4rsku",
+                                    "text": "Lumbar fusion at multi-levels (2 or more) for pure DDD unless case specific indications for two level or the rare three or more level planned fusion procedure is directly addressed in the pre-procedure record."
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "annotations": {
+            "annotation": [
+                {
+                    "para_ref_id": "yEe30vinvr",
+                    "question": {
+                        "id": "L33382.1.",
+                        "text": "Lumbar spinal fusion is requested for the following conditions\u2026..(Please select all that\\n\\napply)",
+                        "options": {
+                            "option": [
+                                {
+                                    "id": "a.",
+                                    "text": "When performed with initial primary laminectomy/discectomy for nerve root decompression or spinal stenosis, without documented spondylolisthesis or documentation of instability (e.g., documented intraoperative iatrogenic instability)"
+                                },
+                                {
+                                    "id": "b.",
+                                    "text": "Lumbar fusion at multi-levels (2 or more) for pure DDD unless case specific indications for two level or the rare three or more level planned fusion procedure is directly addressed in the pre-procedure record"
+                                },
+                                {
+                                    "id": "c.",
+                                    "text": "None of the above"
+                                }
+                            ]
+                        },
+                        "rules": {
+                            "rule": [
+                                {
+                                    "condition": "If L33382.1.a or L33382.1.b",
+                                    "action": "REJECT"
+                                },
+                                {
+                                    "condition": "If L33382.1.c ",
+                                    "action": "PROCEED TO L33382"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "para_ref_id": "D0JZISRXBu",
+                    "question": {
+                        "id": "L33382.2.",
+                        "text": "Request is for (Please select any ONE)",
+                        "options": {
+                            "option": [
+                                {
+                                    "id": "a.",
+                                    "text": "Lumbar spinal instability"
+                                },
+                                {
+                                    "id": "b.",
+                                    "text": "Spinal stenosis for a single level (for example, L4-L5) with associated spondylolisthesis"
+                                },
+                                {
+                                    "id": "c.",
+                                    "text": "Spondylolisthesis manifested by back pain WITH OR WITHOUT spinal claudication, radicular pain, motor deficit"
+                                },
+                                {
+                                    "id": "d.",
+                                    "text": "Degenerative disc disease (DDD)"
+                                },
+                                {
+                                    "id": "e.",
+                                    "text": "Lumbar fusion following prior spinal surgery"
+                                },
+                                {
+                                    "id": "f.",
+                                    "text": "Treatment of pseudoarthrosis (i.e., nonunion of prior fusion)"
+                                },
+                                {
+                                    "id": "g.",
+                                    "text": "None of the above"
+                                }
+                            ]
+                        },
+                        "rules": {
+                            "rule": [
+                                {
+                                    "condition": "If L33382.2.g",
+                                    "action": "REJECT"
+                                },
+                                {
+                                    "condition": "If L33382.2.a",
+                                    "action": "PROCEED TO L33382.3"
+                                },
+                                {
+                                    "condition": "If L33382.2.b",
+                                    "action": "PROCEED TO L33382.4"
+                                },
+                                {
+                                    "condition": "If L33382.2.c ",
+                                    "action": "PROCEED TO L33382.6"
+                                },
+                                {
+                                    "condition": "If L33382.2.d",
+                                    "action": "PROCEED TO L33382.8"
+                                },
+                                {
+                                    "condition": "If L33382.2.e",
+                                    "action": "PROCEED TO L33382.9"
+                                },
+                                {
+                                    "condition": "If L33382.2.f",
+                                    "action": "PROCEED TO L33382.10"
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}
