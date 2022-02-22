@@ -1,0 +1,64 @@
+{
+    "root": {
+        "name": {
+            "id": "L337860",
+            "text": "Intrapulmonary Percussive Ventilation System"
+        },
+        "Coverage Indications, Limitations, and/or Medical Necessity": {
+            "para": [
+                {
+                    "id": 4,
+                    "text": "For any item to be covered by Medicare, it must<OPTION> 1) be eligible for a defined Medicare benefit category</OPTION>, 2) be reasonable and necessary for the diagnosis or treatment of illness or injury or to improve the functioning of a malformed body member</OPTION>, and<OPTION> 3) meet all other applicable Medicare statutory and regulatory requirements.</OPTION>"
+                },
+                {
+                    "id": 5,
+                    "text": "The purpose of a Local Coverage Determination (LCD) is to provide information regarding \u201creasonable and necessary\u201d criteria based on Social Security Act \u00a7 1862(a)(1)(A) provisions."
+                },
+                {
+                    "id": 6,
+                    "text": "In addition to the \u201creasonable and necessary\u201d criteria contained in this LCD there are other payment rules, which are discussed in the following documents, that must also be met prior to Medicare reimbursement:",
+                    "ul": {
+                        "li": [
+                            {
+                                "condition": "",
+                                "para": {
+                                    "id": 7,
+                                    "text": "The LCD-related Standard Documentation Requirements Article, located at the bottom of this policy under the Related Local Coverage Documents section."
+                                }
+                            },
+                            {
+                                "condition": "",
+                                "para": {
+                                    "id": 8,
+                                    "text": "The LCD-related Policy Article, located at the bottom of this policy under the Related Local Coverage Documents section."
+                                }
+                            },
+                            {
+                                "condition": "",
+                                "para": {
+                                    "id": 9,
+                                    "text": "Refer to the Supplier Manual for additional information on documentation requirements."
+                                }
+                            },
+                            {
+                                "condition": "",
+                                "para": {
+                                    "id": 10,
+                                    "text": "Refer to the DME MAC web sites for additional bulletin articles and other publications related to this LCD."
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 11,
+                    "text": "For the items addressed in this LCD, the \u201creasonable and necessary\u201d criteria, based on Social Security Act \u00a7 1862(a)(1)(A) provisions, are defined by the following coverage indications, limitations and/or medical necessity."
+                },
+                {
+                    "id": 12,
+                    "text": "<OPTION>An intrapulmonary percussive ventilator (IPV) (E0481) has not been demonstrated to be reasonable and necessary in the home setting. It will be denied as not medically necessary.</OPTION>"
+                }
+            ]
+        }
+    }
+}

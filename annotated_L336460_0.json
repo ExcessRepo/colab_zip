@@ -1,0 +1,132 @@
+{
+    "root": {
+        "name": {
+            "id": "L336460",
+            "text": "Botulinum Toxins"
+        },
+        "Abstract": {
+            "para": [
+                {
+                    "id": 5.0,
+                    "text": "Botulinum toxins are potent neuromuscular blocking agents that are useful in treating various focal muscle spastic disorders and excessive muscle contractions, such as dystonias, spasms, and twitches. They produce a presynaptic neuromuscular blockade by preventing the release of acetylcholine from the nerve endings. Since the resulting chemical denervation of muscle produces local paresis or paralysis, selected muscles can be treated. The clinical indications for Botulinum toxins have increased exponentially since first used two decades ago. They are used in the treatment of overactive skeletal muscles (e.g. hemifacial spasm, dystonia, spasticity), smooth muscles (e.g. detrusor overactivity and achalasia), glands (e.g. sialorrhoea and hyperhidrosis) and additional conditions that are being investigated."
+                },
+                {
+                    "id": 6.0,
+                    "text": "There are currently four Botulinum toxin products commercially available in the United States: Botox\u00ae (onabotulinumtoxinA), Myobloc\u00ae (rimabotulinumtoxinB), Dysport\u2122 (abobotulinumtoxinA), and Xeomin\u00ae (incobotulinumtoxinA). Each preparation has distinct pharmacological and clinical profiles specified on the product insert. Dosing patterns are also specific to the preparation of neurotoxin and are very different between different serotypes. Failure to recognize the unique characteristics of each formulation of Botulinum toxin can lead to undesired patient outcomes. It is expected that physicians will be familiar with and experienced in the use of these agents, and utilize evidence-based medicine to select the appropriate drug and dose regimen for each patient condition. Physicians may decide which agent to use in beneficiary care except as noted below. Although Botulinum toxins have only been FDA-approved for limited uses, they are frequently used off-label as well. A patient who is not responsive or who ceases to respond to one serotype may respond to the other. "
+                },
+                {
+                    "id": 7.0,
+                    "text": "This local coverage determination provides National Government Services\u2019 indications and limitations of coverage for these pharmaceutical products."
+                }
+            ]
+        },
+        "Indications:": {
+            "para": [
+                {
+                    "id": 9.0,
+                    "text": "Botulinum toxin can be used to <OPTION>reduce spasticity or excessive muscular contractions,to relieve pain, to assist with posture and walking, to improve range of motion, to enhance the effectiveness of physical therapy, and to reduce severe spasm to allow better perineal hygiene in patients with spasticity secondary to spastic hemiplegia and hemiparesis. </OPTION>"
+                },
+                {
+                    "id": 10.0,
+                    "text": "Organic writer\u2019s cramp is uncommon, and so Botulinum toxin for the treatment of organic writer\u2019s cramp should be infrequent."
+                },
+                {
+                    "id": 11.0,
+                    "text": "Botulinum toxin is indicated for disorders associated with spastic conditions as above and dystonia. Please note: covered spastic conditions are listed in Article A52848 under \"ICD-10-CM Codes that Support Medical Necessity.\" The wide range of Botulinum toxin dosages used in a treatment session is determined by patient age, degree of spasticity, number of injections made into each muscle and number of muscles treated."
+                },
+                {
+                    "id": 12.0,
+                    "text": "Electromyography or muscle stimulation, rather than site pain or tenderness, to determine injection site(s) for Botulinum toxin may be necessary, especially for spastic conditions of the face, neck and upper extremity."
+                },
+                {
+                    "id": 13.0,
+                    "text": "OnabotulinumtoxinA is indicated for the treatment of lower limb spasticity in adult patients to decrease the severity of increased muscle tone in ankle and toe flexors (gastrocnemius, soleus, tibialis posterior, flexor hallucis longus, and flexor digitorum longus)."
+                },
+                {
+                    "id": 14.0,
+                    "text": "<OPTION>AbobotulinumtoxinA is indicated for the treatment of lower limb spasticity in adults. </OPTION>"
+                }
+            ]
+        },
+        "Blepharospasm": {
+            "para": [
+                {
+                    "id": 16.0,
+                    "text": "Botulinum toxin injection therapy is accepted first line treatment for patients with blepharospasm and/or hemifacial spasm. If the upper and lower lid of the same eye and/or adjacent facial muscles, or brow are injected at the same surgery, the procedure is considered to be unilateral. Bilateral procedures will only be considered when both eyes or both sides of the face are injected. "
+                }
+            ]
+        },
+        "Achalasia ": {
+            "para": [
+                {
+                    "id": 18.0,
+                    "text": "Botulinum toxin for achalasia may be considered for<OPTION> the patient who has not responded satisfactorily to conventional therapy; is at high risk of complication from pneumatic dilation or surgical myotomy; has had treatment failure with pneumatic dilation or surgical myotomy; had perforation from pneumatic dilation; has an epiphrenic diverticulum or hiatal hernia; or has esophageal varices. </OPTION>"
+                }
+            ]
+        },
+        "Anal Fissure": {
+            "para": [
+                {
+                    "id": 20.0,
+                    "text": "Botulinum toxin for chronic anal fissure may be considered for<OPTION> the patient who has not responded satisfactorily to conventional therapy.</OPTION>"
+                }
+            ]
+        },
+        "Hyperhidrosis": {
+            "para": [
+                {
+                    "id": 22.0,
+                    "text": "<OPTION>OnabotulinumtoxinA has been approved by the Federal Drug Administration (FDA) for treatment of severe primary axillary hyperhidrosis (primary focal hyperhidrosis) that is inadequately managed with topical therapy.</OPTION> Compendia list onabotulinumtoxinA and rimabotulinumtoxinB as acceptable off-label agents for this condition. The definition of primary focal hyperhidrosis is severe sweating, beyond physiological needs; focal, visible, severe sweating of at least six (6) months duration without apparent cause with at least two (2) of the following characteristics: bilateral and relatively symmetric, significant impairment in daily activities, age of onset less than 25 years, positive family history, and cessation of focal sweating during sleep."
+                }
+            ]
+        },
+        "Sialorrhea ": {
+            "para": [
+                {
+                    "id": 24.0,
+                    "text": "<OPTION>The treatment of sialorrhea due to conditions such as motor neuron disease or Parkinson's disease in those patients who have failed to respond to a reasonable trial of traditional therapies (eg., anticholinergics and speech therapy) or who have a contraindication to or cannot tolerate anticholinergic therapy</OPTION>, will be allowed for coverage. "
+                }
+            ]
+        },
+        "Urinary Incontinence": {
+            "para": [
+                {
+                    "id": 26.0,
+                    "text": "Urinary incontinence due to neurogenic detrusor overactivity (NDO) commonly occurs in patients with spinal cord injuries (SCI) or neurological diseases such as multiple sclerosis (MS). Patients with NDO usually use clean intermittent self-catheterization (CIC) to empty the bladder. When incontinence episodes occur between catheterizations, oral anticholinergic agents are used to decrease bladder contractility and improve incontinence."
+                }
+            ]
+        },
+        "Headache/Migraine": {
+            "para": [
+                {
+                    "id": 29.0,
+                    "text": "Coverage will only be allowed for those <OPTION>patients with chronic daily headaches (headache disorders occurring greater than 15 days a month - in many cases daily with a duration of four or more hours - for a period of at least 3 months) who have significant disability due to the headaches, and have been refractory to standard and usual conventional therapy. The etiology of the chronic daily headache may be chronic tension-type headache or chronic migraine (CM). CM is characterized by headache on > 15 days per month, of which at least 8 headache days per month meet criteria for migraine without aura or respond to migraine-specific treatment. For continuing Botulism toxin therapy the patients must demonstrate a significant decrease in the number and frequency of headaches and an improvement in function upon receiving Botulinum toxin.</OPTION."
+                }
+            ]
+        },
+        "Limitations:": {
+            "para": [
+                {
+                    "id": 31.0,
+                    "text": "Medicare will allow payment for one injection per site regardless of the number of injections made into the site. A site is defined as one eye (including all muscles surrounding the eye including both upper and lower lids); one side of the face; the neck; or extremity and/or trunk muscle(s). "
+                },
+                {
+                    "id": 32.0,
+                    "text": "Failure of two definitive, consecutive, treatment sessions involving a muscle or group of muscles could preclude further coverage of the serotype used in the treatment for a period of one year after the second session. It may be reasonable, however, to attempt treatment with a different serotype. "
+                },
+                {
+                    "id": 33.0,
+                    "text": "Treatment of wrinkles using Botulinum toxins is considered to be cosmetic, and is not covered under Medicare. "
+                },
+                {
+                    "id": 34.0,
+                    "text": "Payment will not be made for any spastic condition of smooth muscle, such as spastic colon and biliary dyskinesia, or of any spastic condition not listed under \u201cICD-10-CM Codes That Support Medical Necessity\u201d in Article A52848. "
+                },
+                {
+                    "id": 35.0,
+                    "text": "The cost of special syringes is not separately payable. They are considered part of the surgical procedure. "
+                }
+            ]
+        }
+    }
+}

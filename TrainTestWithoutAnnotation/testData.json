@@ -1,283 +1,218 @@
 [
-    {
-      
-        "root": {
-            "name": {
-                 "id": "L334170",
-                 "text": "LCD - Allergy Skin Testing"
-             },
-             "header": "Coverage Guidance",
-             "Coverage Indications, Limitations, and/or Medical Necessity": {
-                 "para": [
-                     {
-                         "id": "uFWDc2UoAc",
-                         "text": "Allergy skin testing is a clinical procedure that is used to evaluate an immunologic response to allergenic material. The need for testing and interpretation of test findings must be correlated with signs and symptoms of possible allergies as determined by a complete history and physical examination of the patient. The number and type of antigens used for testing must be chosen judiciously given the patient\u2019s presentation and the tester\u2019s clinical judgment."
-                     },
-                     {
-                         "id": "LgPyRLChqk",
-                         "text": "Allergy testing is covered when a patient presents with clinically significant allergic history or symptoms that are not controllable by empiric conservative therapy. For Medicare to cover allergy testing, all of the following criteria must be met:",
-                         "ul": {
-                             "li": [
-                                 {
-                                     "condition": "",
-                                     "para": {
-                                         "id": "oHhhi4unV3",
-                                         "text": "Testing must correlate specifically to the patient\u2019s history and physical findings"
-                                     }
-                                 },
-                                 {
-                                     "condition": "",
-                                     "para": {
-                                         "id": "pdl8JRh2-W",
-                                         "text": "The test technique and/or allergens tested must have proven efficacy demonstrated through scientifically valid medical studies published in peer-reviewed literature."
-                                     }
-                                 },
-                                 {
-                                     "condition": "",
-                                     "para": {
-                                         "id": "5HcQJLdOVC",
-                                         "text": "Allergy testing must be performed on patients whose environment provides the reasonable probability of exposure to the specific antigen tested."
-                                     }
-                                 }
-                             ]
-                         }
-                     },
-                     {
-                         "id": "47t8MhdSzo",
-                         "text": "Percutaneous testing is the usual preferred method for allergy testing. Medicare covers percutaneous (scratch, prick or puncture) testing when documented IgE-mediated reactions occur to any of the following:",
-                         "ul": {
-                             "li": [
-                                 {
-                                     "condition": "",
-                                     "para": {
-                                         "id": "SX0J7eZoK_",
-                                         "text": "Inhalants"
-                                     }
-                                 },
-                                 {
-                                     "condition": "",
-                                     "para": {
-                                         "id": "Zegs_gpBNR",
-                                         "text": "Foods"
-                                     }
-                                 },
-                                 {
-                                     "condition": "",
-                                     "para": {
-                                         "id": "iKEhusOAqU",
-                                         "text": "Hymenoptera (stinging insects)"
-                                     }
-                                 },
-                                 {
-                                     "condition": "",
-                                     "para": {
-                                         "id": "wYa_s5zAkl",
-                                         "text": "Specific drugs (penicillins and macromolecular agents)"
-                                     }
-                                 }
-                             ]
-                         }
-                     },
-                     {
-                         "id": "JCcCh3Hrgz",
-                         "text": "In selected patients, intradermal testing for the same antigen may be necessary to test persons whose percutaneous test was negative. For intradermal testing, the clinician should narrow the area of investigation so that the minimal number of skin tests necessary for diagnosis is performed. Medicare covers intradermal (intracutaneous) testing when documented IgE-mediated reactions occur to any of the following:",
-                         "ul": {
-                             "li": [
-                                 {
-                                     "condition": "",
-                                     "para": {
-                                         "id": "gd1lQQXAO0",
-                                         "text": "Inhalants"
-                                     }
-                                 },
-                                 {
-                                     "condition": "",
-                                     "para": {
-                                         "id": "m6UCyRI4aE",
-                                         "text": "Hymenoptera (stinging insects)"
-                                     }
-                                 },
-                                 {
-                                     "condition": "",
-                                     "para": {
-                                         "id": "zw1_DLMMaX",
-                                         "text": "Specific drugs (penicillins and macromolecular agents)"
-                                     }
-                                 }
-                             ]
-                         }
-                     },
-                     {
-                         "id": "h_9VvcRZ6P",
-                         "text": "<OPTION>Retesting with the same antigen(s) should rarely be necessary within a 3-year period</OPTION>. Exceptions include young children with negative skin tests, or older children and adults with negative skin tests in the face of persistent symptoms. Routine repetition of skin tests is not indicated (i.e., annually). If under specific circumstances, extensive repeat testing is required within a 3-year period, those circumstances must be clearly documented in the medical record including an explanation as to why the original testing is unacceptable."
-                     },
-                     {
-                         "id": "4xGbtAEC3k",
-                         "text": "Percutaneous testing for food allergens is covered for patients with a clinical presentation suggestive of significant IgE mediated food allergy. Such patients will have presented with signs and symptoms of such conditions as angioedema, urticaria or anaphylaxis after ingestion of specific foods. Testing for food allergies in patients who present with significant respiratory symptoms alone may be required in certain instances."
-                     },
-                     {
-                         "id": "H_gq07SKud",
-                         "text": "The following allergy testing is non-covered by Medicare:",
-                         "ul": {
-                             "li": [
-                                 {
-                                     "condition": "",
-                                     "para": {
-                                         "id": "qtPDCrLNU1",
-                                         "text": "Provocative and neutralization testing and neutralization therapy of food allergies (sublingual, intracutaneous and subcutaneous) are excluded from Medicare coverage because available evidence does not show these tests and therapies are effective"
-                                     }
-                                 },
-                                 {
-                                     "condition": "",
-                                     "para": {
-                                         "id": "md3bEhJBnv",
-                                         "text": "Qualitative multiallergen screens have insufficient literature demonstrating clear-cut clinical utility and are, therefore, non-covered"
-                                     }
-                                 },
-                                 {
-                                     "condition": "",
-                                     "para": {
-                                         "id": "tSloVYILqp",
-                                         "text": "Late reactions occurring with allergenic extracts are of unclear clinical significance and are, therefore, non-covered"
-                                     }
-                                 },
-                                 {
-                                     "condition": "",
-                                     "para": {
-                                         "id": "DSFlcD5eq6",
-                                         "text": "Intradermal testing for food allergens"
-                                     }
-                                 },
-                                 {
-                                     "condition": "",
-                                     "para": {
-                                         "id": "XfWY8TZFd1",
-                                         "text": "Food allergen testing for patients who present with respiratory symptoms other than wheezing and asthma"
-                                     }
-                                 },
-                                 {
-                                     "condition": "",
-                                     "para": {
-                                         "id": "XAcP4KgXN-",
-                                         "text": "Food allergen testing for patients who present with gastrointestinal symptoms suggestive of food intolerance"
-                                     }
-                                 },
-                                 {
-                                     "condition": "",
-                                     "para": {
-                                         "id": "ePWSFffvZY",
-                                         "text": "Skin endpoint testing"
-                                     }
-                                 },
-                                 {
-                                     "condition": "",
-                                     "para": {
-                                         "id": "8ii7NEBVQz",
-                                         "text": "Allergy testing for antigens for which no clinical efficacy is documented in peer-reviewed literature. Such antigens include but are not limited to the following:"
-                                     },
-                                     "ul": {
-                                         "li": [
-                                             {
-                                                 "condition": "",
-                                                 "para": {
-                                                     "id": "oTOn_BRj1x",
-                                                     "text": "Grain mill dust (pollen grains of cereals/related crops are large; they do not become airborne) Tobacco smoke (no component has ever been shown to be a respiratory allergen)\\n\\nOrris root (almost never used in cosmetics these days; test adds nothing to evaluation)"
-                                                 }
-                                             },
-                                             {
-                                                 "condition": "",
-                                                 "para": {
-                                                     "id": "Jj9PfXbytb",
-                                                     "text": "Dandelion (non-allergenic; no pollen produced)"
-                                                 }
-                                             },
-                                             {
-                                                 "condition": "",
-                                                 "para": {
-                                                     "id": "ZH5mQM_LdH",
-                                                     "text": "Marigold (non-allergenic; no airborne pollen produced)"
-                                                 }
-                                             },
-                                             {
-                                                 "condition": "",
-                                                 "para": {
-                                                     "id": "acqbc_VgK8",
-                                                     "text": "Honeysuckle (non-allergenic;non-significant airborne pollen produced)"
-                                                 }
-                                             }
-                                         ]
-                                     }
-                                 }
-                             ]
-                         }
-                     },
-                     {
-                         "id": "RQHmQXHJwt",
-                         "text": "Allergy testing for certain antigens is covered only when performed on patients whose environment provides the reasonable probability of their exposure to antigens tested. Such antigens include, but are not limited to the following:",
-                         "ul": {
-                             "li": [
-                                 {
-                                     "condition": "",
-                                     "para": {
-                                         "id": "RFcmi87BBN",
-                                         "text": "Tobacco leaf for tobacco workers"
-                                     }
-                                 },
-                                 {
-                                     "condition": "",
-                                     "para": {
-                                         "id": "W7ZIp6OHO8",
-                                         "text": "Pyrethrum for florists (non-allergenic; found in some insecticides; cross-reacts strongly with ragweed)"
-                                     }
-                                 },
-                                 {
-                                     "condition": "",
-                                     "para": {
-                                         "id": "UgL_qDqNMz",
-                                         "text": "Golden rod for florists (pollen not carried by wind)"
-                                     }
-                                 },
-                                 {
-                                     "condition": "",
-                                     "para": {
-                                         "id": "qUb6Lc8uI4",
-                                         "text": "Soybean dust for workers in food processing plants"
-                                     }
-                                 },
-                                 {
-                                     "condition": "",
-                                     "para": {
-                                         "id": "-uS26-cBEE",
-                                         "text": "Wool for patients exposed to sheep or unprocessed wool (processed wool is non-allergenic)"
-                                     }
-                                 }
-                             ]
-                         }
-                     }
-                 ]
-             }
-          }
-      },
-      {
-        "root": {
-            "name": {
-                "id": "L337380",
-                "text": "Facial Prostheses"
-            },
-            "Coverage Indications, Limitations, and/or Medical Necessity": {
-                "para": [
-                    {
-                        "id": 4,
-                        "text": "For any item to be covered by Medicare, it must 1)<OPTION> be eligible for a defined Medicare benefit category, 2) be reasonable and necessary for the diagnosis or treatment of illness or injury or to improve the functioning of a malformed body member, and 3) meet all other applicable Medicare statutory and regulatory requirements.</OPTION>"
-                    },
-                    {
-                        "id": 5,
-                        "text": "A facial prosthesis is covered when there is loss or absence of facial tissue due to disease, trauma, surgery, or a congenital defect."
-                    }
-                ]
-            }
+{
+    "root": {
+        "name": {
+            "id": "L336460",
+            "text": "Botulinum Toxins"
+        },
+        "Abstract": {
+            "para": [
+                {
+                    "id": 5.0,
+                    "text": "Botulinum toxins are potent neuromuscular blocking agents that are useful in treating various focal muscle spastic disorders and excessive muscle contractions, such as dystonias, spasms, and twitches. They produce a presynaptic neuromuscular blockade by preventing the release of acetylcholine from the nerve endings. Since the resulting chemical denervation of muscle produces local paresis or paralysis, selected muscles can be treated. The clinical indications for Botulinum toxins have increased exponentially since first used two decades ago. They are used in the treatment of overactive skeletal muscles (e.g. hemifacial spasm, dystonia, spasticity), smooth muscles (e.g. detrusor overactivity and achalasia), glands (e.g. sialorrhoea and hyperhidrosis) and additional conditions that are being investigated."
+                },
+                {
+                    "id": 6.0,
+                    "text": "There are currently four Botulinum toxin products commercially available in the United States: Botox\u00ae (onabotulinumtoxinA), Myobloc\u00ae (rimabotulinumtoxinB), Dysport\u2122 (abobotulinumtoxinA), and Xeomin\u00ae (incobotulinumtoxinA). Each preparation has distinct pharmacological and clinical profiles specified on the product insert. Dosing patterns are also specific to the preparation of neurotoxin and are very different between different serotypes. Failure to recognize the unique characteristics of each formulation of Botulinum toxin can lead to undesired patient outcomes. It is expected that physicians will be familiar with and experienced in the use of these agents, and utilize evidence-based medicine to select the appropriate drug and dose regimen for each patient condition. Physicians may decide which agent to use in beneficiary care except as noted below. Although Botulinum toxins have only been FDA-approved for limited uses, they are frequently used off-label as well. A patient who is not responsive or who ceases to respond to one serotype may respond to the other. "
+                },
+                {
+                    "id": 7.0,
+                    "text": "This local coverage determination provides National Government Services\u2019 indications and limitations of coverage for these pharmaceutical products."
+                }
+            ]
+        },
+        "Indications:": {
+            "para": [
+                {
+                    "id": 9.0,
+                    "text": "Botulinum toxin can be used to <OPTION>reduce spasticity or excessive muscular contractions,to relieve pain, to assist with posture and walking, to improve range of motion, to enhance the effectiveness of physical therapy, and to reduce severe spasm to allow better perineal hygiene in patients with spasticity secondary to spastic hemiplegia and hemiparesis. </OPTION>"
+                },
+                {
+                    "id": 10.0,
+                    "text": "Organic writer\u2019s cramp is uncommon, and so Botulinum toxin for the treatment of organic writer\u2019s cramp should be infrequent."
+                },
+                {
+                    "id": 11.0,
+                    "text": "Botulinum toxin is indicated for disorders associated with spastic conditions as above and dystonia. Please note: covered spastic conditions are listed in Article A52848 under \"ICD-10-CM Codes that Support Medical Necessity.\" The wide range of Botulinum toxin dosages used in a treatment session is determined by patient age, degree of spasticity, number of injections made into each muscle and number of muscles treated."
+                },
+                {
+                    "id": 12.0,
+                    "text": "Electromyography or muscle stimulation, rather than site pain or tenderness, to determine injection site(s) for Botulinum toxin may be necessary, especially for spastic conditions of the face, neck and upper extremity."
+                },
+                {
+                    "id": 13.0,
+                    "text": "OnabotulinumtoxinA is indicated for the treatment of lower limb spasticity in adult patients to decrease the severity of increased muscle tone in ankle and toe flexors (gastrocnemius, soleus, tibialis posterior, flexor hallucis longus, and flexor digitorum longus)."
+                },
+                {
+                    "id": 14.0,
+                    "text": "<OPTION>AbobotulinumtoxinA is indicated for the treatment of lower limb spasticity in adults. </OPTION>"
+                }
+            ]
+        },
+        "Blepharospasm": {
+            "para": [
+                {
+                    "id": 16.0,
+                    "text": "Botulinum toxin injection therapy is accepted first line treatment for patients with blepharospasm and/or hemifacial spasm. If the upper and lower lid of the same eye and/or adjacent facial muscles, or brow are injected at the same surgery, the procedure is considered to be unilateral. Bilateral procedures will only be considered when both eyes or both sides of the face are injected. "
+                }
+            ]
+        },
+        "Achalasia ": {
+            "para": [
+                {
+                    "id": 18.0,
+                    "text": "Botulinum toxin for achalasia may be considered for<OPTION> the patient who has not responded satisfactorily to conventional therapy; is at high risk of complication from pneumatic dilation or surgical myotomy; has had treatment failure with pneumatic dilation or surgical myotomy; had perforation from pneumatic dilation; has an epiphrenic diverticulum or hiatal hernia; or has esophageal varices. </OPTION>"
+                }
+            ]
+        },
+        "Anal Fissure": {
+            "para": [
+                {
+                    "id": 20.0,
+                    "text": "Botulinum toxin for chronic anal fissure may be considered for<OPTION> the patient who has not responded satisfactorily to conventional therapy.</OPTION>"
+                }
+            ]
+        },
+        "Hyperhidrosis": {
+            "para": [
+                {
+                    "id": 22.0,
+                    "text": "<OPTION>OnabotulinumtoxinA has been approved by the Federal Drug Administration (FDA) for treatment of severe primary axillary hyperhidrosis (primary focal hyperhidrosis) that is inadequately managed with topical therapy.</OPTION> Compendia list onabotulinumtoxinA and rimabotulinumtoxinB as acceptable off-label agents for this condition. The definition of primary focal hyperhidrosis is severe sweating, beyond physiological needs; focal, visible, severe sweating of at least six (6) months duration without apparent cause with at least two (2) of the following characteristics: bilateral and relatively symmetric, significant impairment in daily activities, age of onset less than 25 years, positive family history, and cessation of focal sweating during sleep."
+                }
+            ]
+        },
+        "Sialorrhea ": {
+            "para": [
+                {
+                    "id": 24.0,
+                    "text": "<OPTION>The treatment of sialorrhea due to conditions such as motor neuron disease or Parkinson's disease in those patients who have failed to respond to a reasonable trial of traditional therapies (eg., anticholinergics and speech therapy) or who have a contraindication to or cannot tolerate anticholinergic therapy</OPTION>, will be allowed for coverage. "
+                }
+            ]
+        },
+        "Urinary Incontinence": {
+            "para": [
+                {
+                    "id": 26.0,
+                    "text": "Urinary incontinence due to neurogenic detrusor overactivity (NDO) commonly occurs in patients with spinal cord injuries (SCI) or neurological diseases such as multiple sclerosis (MS). Patients with NDO usually use clean intermittent self-catheterization (CIC) to empty the bladder. When incontinence episodes occur between catheterizations, oral anticholinergic agents are used to decrease bladder contractility and improve incontinence."
+                }
+            ]
+        },
+        "Headache/Migraine": {
+            "para": [
+                {
+                    "id": 29.0,
+                    "text": "Coverage will only be allowed for those <OPTION>patients with chronic daily headaches (headache disorders occurring greater than 15 days a month - in many cases daily with a duration of four or more hours - for a period of at least 3 months) who have significant disability due to the headaches, and have been refractory to standard and usual conventional therapy. The etiology of the chronic daily headache may be chronic tension-type headache or chronic migraine (CM). CM is characterized by headache on > 15 days per month, of which at least 8 headache days per month meet criteria for migraine without aura or respond to migraine-specific treatment. For continuing Botulism toxin therapy the patients must demonstrate a significant decrease in the number and frequency of headaches and an improvement in function upon receiving Botulinum toxin.</OPTION."
+                }
+            ]
+        },
+        "Limitations:": {
+            "para": [
+                {
+                    "id": 31.0,
+                    "text": "Medicare will allow payment for one injection per site regardless of the number of injections made into the site. A site is defined as one eye (including all muscles surrounding the eye including both upper and lower lids); one side of the face; the neck; or extremity and/or trunk muscle(s). "
+                },
+                {
+                    "id": 32.0,
+                    "text": "Failure of two definitive, consecutive, treatment sessions involving a muscle or group of muscles could preclude further coverage of the serotype used in the treatment for a period of one year after the second session. It may be reasonable, however, to attempt treatment with a different serotype. "
+                },
+                {
+                    "id": 33.0,
+                    "text": "Treatment of wrinkles using Botulinum toxins is considered to be cosmetic, and is not covered under Medicare. "
+                },
+                {
+                    "id": 34.0,
+                    "text": "Payment will not be made for any spastic condition of smooth muscle, such as spastic colon and biliary dyskinesia, or of any spastic condition not listed under \u201cICD-10-CM Codes That Support Medical Necessity\u201d in Article A52848. "
+                },
+                {
+                    "id": 35.0,
+                    "text": "The cost of special syringes is not separately payable. They are considered part of the surgical procedure. "
+                }
+            ]
         }
     }
-
- ]
-  
+},
+{
+    "root": {
+        "name": {
+            "id": "L337380",
+            "text": "Facial Prostheses"
+        },
+        "Coverage Indications, Limitations, and/or Medical Necessity": {
+            "para": [
+                {
+                    "id": 4,
+                    "text": "For any item to be covered by Medicare, it must 1)<OPTION> be eligible for a defined Medicare benefit category, 2) be reasonable and necessary for the diagnosis or treatment of illness or injury or to improve the functioning of a malformed body member, and 3) meet all other applicable Medicare statutory and regulatory requirements.</OPTION>"
+                },
+                {
+                    "id": 5,
+                    "text": "A facial prosthesis is covered when there is loss or absence of facial tissue due to disease, trauma, surgery, or a congenital defect."
+                }
+            ]
+        }
+    }
+},
+{
+    "root": {
+        "name": {
+            "id": "L337860",
+            "text": "Intrapulmonary Percussive Ventilation System"
+        },
+        "Coverage Indications, Limitations, and/or Medical Necessity": {
+            "para": [
+                {
+                    "id": 4,
+                    "text": "For any item to be covered by Medicare, it must<OPTION> 1) be eligible for a defined Medicare benefit category</OPTION>, 2) be reasonable and necessary for the diagnosis or treatment of illness or injury or to improve the functioning of a malformed body member</OPTION>, and<OPTION> 3) meet all other applicable Medicare statutory and regulatory requirements.</OPTION>"
+                },
+                {
+                    "id": 5,
+                    "text": "The purpose of a Local Coverage Determination (LCD) is to provide information regarding \u201creasonable and necessary\u201d criteria based on Social Security Act \u00a7 1862(a)(1)(A) provisions."
+                },
+                {
+                    "id": 6,
+                    "text": "In addition to the \u201creasonable and necessary\u201d criteria contained in this LCD there are other payment rules, which are discussed in the following documents, that must also be met prior to Medicare reimbursement:",
+                    "ul": {
+                        "li": [
+                            {
+                                "condition": "",
+                                "para": {
+                                    "id": 7,
+                                    "text": "The LCD-related Standard Documentation Requirements Article, located at the bottom of this policy under the Related Local Coverage Documents section."
+                                }
+                            },
+                            {
+                                "condition": "",
+                                "para": {
+                                    "id": 8,
+                                    "text": "The LCD-related Policy Article, located at the bottom of this policy under the Related Local Coverage Documents section."
+                                }
+                            },
+                            {
+                                "condition": "",
+                                "para": {
+                                    "id": 9,
+                                    "text": "Refer to the Supplier Manual for additional information on documentation requirements."
+                                }
+                            },
+                            {
+                                "condition": "",
+                                "para": {
+                                    "id": 10,
+                                    "text": "Refer to the DME MAC web sites for additional bulletin articles and other publications related to this LCD."
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 11,
+                    "text": "For the items addressed in this LCD, the \u201creasonable and necessary\u201d criteria, based on Social Security Act \u00a7 1862(a)(1)(A) provisions, are defined by the following coverage indications, limitations and/or medical necessity."
+                },
+                {
+                    "id": 12,
+                    "text": "<OPTION>An intrapulmonary percussive ventilator (IPV) (E0481) has not been demonstrated to be reasonable and necessary in the home setting. It will be denied as not medically necessary.</OPTION>"
+                }
+            ]
+        }
+    }
+}
+]
