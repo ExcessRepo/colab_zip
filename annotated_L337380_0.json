@@ -1,0 +1,20 @@
+{
+    "root": {
+        "name": {
+            "id": "L337380",
+            "text": "Facial Prostheses"
+        },
+        "Coverage Indications, Limitations, and/or Medical Necessity": {
+            "para": [
+                {
+                    "id": 4,
+                    "text": "For any item to be covered by Medicare, it must 1)<OPTION> be eligible for a defined Medicare benefit category, 2) be reasonable and necessary for the diagnosis or treatment of illness or injury or to improve the functioning of a malformed body member, and 3) meet all other applicable Medicare statutory and regulatory requirements.</OPTION>"
+                },
+                {
+                    "id": 5,
+                    "text": "A facial prosthesis is covered when there is loss or absence of facial tissue due to disease, trauma, surgery, or a congenital defect."
+                }
+            ]
+        }
+    }
+}
